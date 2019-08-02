@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `RIZALFAKHRI.ID`,
     author: `Rizal Fakhri`,
-    description: `The diary of codes.`,
+    description: `Rizal's diary of codes.`,
     siteUrl: `https://rizalfakhri.id`,
     social: {
       twitter: `rizal__fakhri`,
