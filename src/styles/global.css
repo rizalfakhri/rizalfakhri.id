@@ -1,0 +1,309 @@
+/*
+ * Copyright (c) 2015 overreacted.io 
+ * Forked from https://github.com/aaronshaf/react-toggle/
+**/
+
+body {
+    -webkit-font-smoothing: antialiased;
+
+    --pink: rgb(255, 167, 196);
+    --bg: #282c35;
+    --header: #ffffff;
+    --textNormal: rgba(255, 255, 255, 0.88);
+    --textTitle: #ffffff;
+    --textLink: var(--pink);
+    --hr: hsla(0, 0%, 100%, 0.2);
+    --inlineCode-bg: hsl(222, 14%, 25%);
+    --inlineCode-text: #e6e6e6;
+    --white: #fff;
+
+    background-color: var(--bg);
+    color: var(--white);
+    font-family: 'IBM Plex Mono';
+}
+
+p {
+    font-family: 'IBM Plex Mono';
+}
+
+a {
+    text-decoration: none;
+    color: var(--textLink);
+}
+
+a:active, a:visited, a:hover {
+    text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Press Start 2P'
+}
+
+/*
+RTL layout
+*/
+body:lang(fa) article,
+body:lang(ar) article {
+    direction: rtl;
+}
+
+body:lang(fa) article pre,
+body:lang(ar) article pre,
+body:lang(fa) article .translations,
+body:lang(ar) article .translations,
+body:lang(fa) .language-text,
+body:lang(ar) .language-text {
+    direction: ltr;
+}
+
+/* Fixing parentheses issue in text */
+body:lang(fa) .language-text,
+body:lang(ar) .language-text {
+    display: inline-block;
+}
+
+body:lang(fa) blockquote,
+body:lang(ar) blockquote {
+    border-left: unset;
+    border-right: 0.32813rem solid hsla(0, 0%, 0%, 0.9);
+    padding-right: 1.42188rem;
+    padding-left: unset;
+    margin-left: 0.75rem;
+    margin-right: -1.75rem;
+}
+
+/* styles for Persian language */
+body:lang(fa) article,
+body:lang(fa) header>h1 {
+    font-family: 'Press Start 2P';
+}
+
+/* styles for Arabic language */
+body:lang(ar) article,
+body:lang(ar) header>h1 {
+    font-family: 'Press Start 2P', sans-serif;
+}
+
+body:lang(ko) header,
+body:lang(ko) article {
+    word-break: keep-all;
+}
+
+/**
+* Based on copypasta from Remy Bach and Sarah Drasner
+*/
+code[class*='language-'],
+pre[class*='language-'] {
+    color: white;
+    background: none;
+    font-family: Consolas, Menlo, Monaco, source-code-pro, Courier New, monospace;
+    font-feature-settings: normal;
+    text-align: left;
+    white-space: pre;
+    word-spacing: normal;
+    word-break: normal;
+    word-wrap: normal;
+    line-height: 1.5;
+    margin-bottom: 0;
+
+    -moz-tab-size: 4;
+    -o-tab-size: 4;
+    tab-size: 4;
+
+    -webkit-hyphens: none;
+    -moz-hyphens: none;
+    -ms-hyphens: none;
+    hyphens: none;
+    box-shadow: none;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+/* Code blocks */
+pre[class*='language-'] {
+    overflow: auto;
+    padding: 1.3125rem;
+}
+
+pre[class*='language-']::-moz-selection {
+    /* Firefox */
+    background: hsl(207, 4%, 16%);
+}
+
+pre[class*='language-']::selection {
+    /* Safari */
+    background: hsl(207, 4%, 16%);
+}
+
+/* Text Selection colour */
+pre[class*='language-']::-moz-selection,
+pre[class*='language-'] ::-moz-selection {
+    text-shadow: none;
+    background: hsla(0, 0%, 100%, 0.15);
+}
+
+pre[class*='language-']::selection,
+pre[class*='language-'] ::selection {
+    text-shadow: none;
+    background: hsla(0, 0%, 100%, 0.15);
+}
+
+/* Inline code */
+:not(pre)>code[class*='language-'] {
+    border-radius: 0.3em;
+    background: var(--inlineCode-bg);
+    color: var(--inlineCode-text);
+    padding: 0.15em 0.2em 0.05em;
+    white-space: normal;
+}
+
+.token.attr-name {
+    color: rgb(173, 219, 103);
+    font-style: italic;
+}
+
+.token.comment {
+    color: rgb(128, 147, 147);
+}
+
+.token.string,
+.token.url {
+    color: rgb(173, 219, 103);
+}
+
+.token.variable {
+    color: rgb(214, 222, 235);
+}
+
+.token.number {
+    color: rgb(247, 140, 108);
+}
+
+.token.builtin,
+.token.char,
+.token.constant,
+.token.function {
+    color: rgb(130, 170, 255);
+}
+
+.token.punctuation {
+    color: rgb(199, 146, 234);
+}
+
+.token.selector,
+.token.doctype {
+    color: rgb(199, 146, 234);
+    font-style: 'italic';
+}
+
+.token.class-name {
+    color: rgb(255, 203, 139);
+}
+
+.token.tag,
+.token.operator,
+.token.keyword {
+    color: #ffa7c4;
+}
+
+.token.boolean {
+    color: rgb(255, 88, 116);
+}
+
+.token.property {
+    color: rgb(128, 203, 196);
+}
+
+.token.namespace {
+    color: rgb(178, 204, 214);
+}
+
+pre[data-line] {
+    padding: 1em 0 1em 3em;
+    position: relative;
+}
+
+
+@media only screen and (max-width: 930px) {
+
+    .gatsby-highlight {
+        border-radius: 0px !important;
+        margin-left: -4.3125rem !important;
+        margin-right: -4.3125rem !important;
+    }
+
+}
+
+.gatsby-highlight-code-line {
+    background-color: hsla(207, 95%, 15%, 1);
+    display: block;
+    margin-right: -1.3125rem;
+    margin-left: -1.3125rem;
+    padding-right: 1em;
+    padding-left: 1.25em;
+    border-left: 0.25em solid #ffa7c4;
+}
+
+.gatsby-highlight {
+    margin-bottom: 1.75rem;
+    margin-left: -1.3125rem;
+    margin-right: -1.3125rem;
+    border-radius: 10px;
+    background: #011627;
+    -webkit-overflow-scrolling: touch;
+    overflow: hidden;
+    border-radius: 0px;
+}
+
+@media (max-width: 672px) {
+    .gatsby-highlight {
+        border-radius: 0;
+    }
+}
+
+.gatsby-highlight pre[class*='language-'] {
+    float: left;
+    min-width: 100%;
+}
+
+/* TYPOGRAPHY THINGS*/
+code:not(pre) {
+    font-family: "Share Tech Mono";
+    background-color: var(--pink);
+    border-radius: 2.5px;
+    padding: 2px;
+    color: #fff;
+    box-shadow: 3px 3px #999999;
+    font-weight: bold;
+    padding: 5px 5px 3px 5px;
+    font-size: 15px;
+}
+
+blockquote {
+    position: relative;
+    margin-left: -4.3456rem !important;
+    margin-right: -4.3125rem !important;
+    z-index: 1;
+    font-style: italic;
+    padding: 25px;
+    border-left: 10px solid var(--pink);
+    color: var(--white);
+}
+
+blockquote:before {
+    position: absolute;
+    content: '"';
+    opacity: 0.2;
+    color: var(--textNormal);
+    font-size: 120px;
+    left: -15px;
+    line-height: 70px;
+    z-index: -1;
+    height: 100%;
+}
+
+ul>li {
+    font-family: 'IBM Plex Mono';
+    font-size: 20px;
+    color: var(--white);
+}

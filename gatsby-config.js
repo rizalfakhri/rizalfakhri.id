@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `RIZALFAKHRI.ID`,
     author: `Kyle Mathews`,
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
@@ -9,6 +9,17 @@ module.exports = {
     },
   },
   plugins: [
+    {
+        resolve: `gatsby-plugin-google-fonts`,
+        options: {
+            fonts: [
+              `Press Start 2P`,
+              `IBM Plex Mono`,
+              `Share Tech Mono`
+            ],
+            display: 'swap'
+        }
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -73,6 +84,6 @@ module.exports = {
       options: {
         pathToConfigModule: `src/utils/typography`,
       },
-    },
+    }
   ],
 }
