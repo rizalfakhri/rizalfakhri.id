@@ -1,11 +1,13 @@
 module.exports = {
   siteMetadata: {
     title: `RIZALFAKHRI.ID`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    author: `Rizal Fakhri`,
+    description: `The diary of codes.`,
+    siteUrl: `https://rizalfakhri.id`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `rizal__fakhri`,
+      instagram: `rizal_fakhri`,
+      github: `rizalfakhri`
     },
   },
   plugins: [
