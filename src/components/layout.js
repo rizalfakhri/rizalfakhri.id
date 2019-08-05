@@ -13,6 +13,7 @@ class Layout extends React.Component {
     if (location.pathname === rootPath) {
       header = (
         <h6
+          className="blog-name"
           style={{
             ...scale(1.5),
             marginBottom: rhythm(1.5),

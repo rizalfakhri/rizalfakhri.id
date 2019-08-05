@@ -39,6 +39,28 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Press Start 2P'
 }
 
+.bio-description {
+    margin-right: 7rem;
+}
+
+@media only screen  and (min-width: 300px) and (max-width: 600px) {
+
+    .blog-name {
+        font-size: 15px !important;
+    }
+
+    .bio-description {
+        margin-right: 0;
+    }
+
+    .bio-container {
+        margin-right: -2rem !important;
+        margin-left: -2rem !important;
+
+    }
+
+}
+
 /*
 RTL layout
 */

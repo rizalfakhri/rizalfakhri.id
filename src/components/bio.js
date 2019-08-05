@@ -36,6 +36,7 @@ const Bio = () => {
   const { author, social } = data.site.siteMetadata
   return (
     <div
+      className="bio-container"
       style={{
         display: `flex`,
         marginBottom: rhythm(2.5),
@@ -47,20 +48,16 @@ const Bio = () => {
         style={{
           marginRight: rhythm(1 / 2),
           marginBottom: 0,
-          width: rhythm(2.9),
-          height: rhythm(2.9),
+          width: rhythm(2.5),
+          height: rhythm(2.5),
           borderRadius: `50%`,
         }}
       />
-      <p 
-        style={
-          {
-            marginRight: rhythm(6),
-          }
-        }
+      <p
+        className="bio-description"
       >
 
-        This is personal blog by &nbsp;
+        This is personal blog by&nbsp;
         <a href={`https://twitter.com/${social.twitter}`}>
           {author}
         </a>
