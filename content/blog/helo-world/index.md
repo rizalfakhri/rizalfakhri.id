@@ -26,7 +26,7 @@ I see.., you're kinda lazy..., so here: [Twitter](https://twitter.com/rizal__fak
 
 
 Well, you know I code `Laravel ` a lots, So I think you will see lots of Laravel things here. Despite Laravel I do learn other things too.
-Hopefully I can share it too.
+Hopefully I can share it as well.
 
 Okay, Here the things.. Let's be honest, I have very little experience on explaining IT-stuff to other peoples, Like you know
 the IT-things is kinda very fast on your brain, You greatly understand it. But when it comes to explaining, it's very hard.
