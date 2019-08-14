@@ -151,4 +151,4 @@ This journey is not end yet. I'll update it.
 
 ### COPYRIGHT
 
-- [If Apple Was a Democracy](https://www.reddit.com/r/funny/comments/51pepa/if_apple_was_a_democracy/)
+- [If Apple Was a Democracy](./if-apple-was-democracy.png)

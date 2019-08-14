@@ -43,6 +43,7 @@ h1, h2, h3, h4, h5, h6 {
     margin-right: 7rem;
 }
 
+
 @media only screen  and (min-width: 300px) and (max-width: 600px) {
 
     .blog-name {
@@ -53,9 +54,11 @@ h1, h2, h3, h4, h5, h6 {
         margin-right: 0;
     }
 
-    .bio-container {
-        margin-right: -2rem !important;
-        margin-left: -2rem !important;
+    .blog-container {
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 58rem;
+        padding: 1.015rem 2rem !important;
 
     }
 
