@@ -2,6 +2,9 @@ import React from "react"
 import { Link } from "gatsby"
 import "../styles/global.css"
 import { rhythm, scale } from "../utils/typography"
+import {
+  Helmet
+} from 'react-helmet'
 
 class Layout extends React.Component {
 
@@ -37,12 +40,13 @@ class Layout extends React.Component {
       )
     } else {
       header = (
-        <h3
+        <h6
           style={{
             fontFamily: `'Press Start 2P', Montserrat, sans-serif`,
             marginTop: 0,
             marginBottom: rhythm(2),
-            color: '--textTitle'
+            color: '--textTitle',
+            fontSize: '15px'
           }}
         >
           <Link
@@ -55,12 +59,13 @@ class Layout extends React.Component {
           >
             {title}
           </Link>
-        </h3>
+        </h6>
       )
     }
 
 
     return (
+
       <div
         style={{
           marginLeft: `auto`,
@@ -69,6 +74,7 @@ class Layout extends React.Component {
           padding: `${rhythm(1.5)} ${rhythm(3)}`,
         }}
       >
+
         <header>{header}</header>
         <main>{children}</main>
 
