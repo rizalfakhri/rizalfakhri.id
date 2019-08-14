@@ -41,12 +41,13 @@ class Layout extends React.Component {
     } else {
       header = (
         <h6
+          className="blog-name"
           style={{
             fontFamily: `'Press Start 2P', Montserrat, sans-serif`,
             marginTop: 0,
             marginBottom: rhythm(2),
             color: '--textTitle',
-            fontSize: '15px'
+            fontSize: '30px'
           }}
         >
           <Link
