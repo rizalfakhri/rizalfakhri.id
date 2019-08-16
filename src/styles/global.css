@@ -253,8 +253,8 @@ pre[data-line] {
 
     .gatsby-highlight {
         border-radius: 0px !important;
-        margin-left: -4.3125rem !important;
-        margin-right: -4.3125rem !important;
+        margin-left: -2rem !important;
+        margin-right: -2rem !important;
     }
 
 }
@@ -306,8 +306,8 @@ code:not(pre) {
 
 blockquote {
     position: relative;
-    margin-left: -4.3456rem !important;
-    margin-right: -4.3125rem !important;
+    margin-left: -2rem !important;
+    margin-right: -2rem !important;
     z-index: 1;
     font-style: italic;
     padding: 25px;
