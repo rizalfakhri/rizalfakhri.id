@@ -148,7 +148,7 @@ So far, the project goes well. Besides what I thought. The man doing a great job
 
 ### FUN FACT
 
-While we agree during our meetings that we shouldn't using monolithic design to our system. Ironically the new hero use it on the `2.0`'s `GO`. That's violating our agreement.
+While we agree during our meetings that we shouldn't using monolithic design to our system. Ironically the new hero use it on the `2.0`'s `GO`. That's violating our agreement right?
 
 
 ---
