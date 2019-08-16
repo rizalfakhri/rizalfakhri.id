@@ -34,7 +34,7 @@ and generate some penny to back our startup petty cash.
 
 So this is pretty much **us**:
 
-![If Apple was democracy](https://i.redd.it/r9906uyd68kx.png)
+![If Apple was democracy](./if-apple-was-democracy.png)
 
 We just keep straying away from our main product idea since then, But meh.. Screw it!
 
@@ -159,4 +159,4 @@ This journey is not end yet. I'll update it.
 
 ### COPYRIGHT
 
-- [If Apple Was a Democracy](./if-apple-was-democracy.png)
+- [If Apple Was a Democracy](https://www.reddit.com/r/funny/comments/51pepa/if_apple_was_a_democracy/)
