@@ -36,7 +36,7 @@ So this is pretty much **us**:
 
 ![If Apple was democracy](https://i.redd.it/r9906uyd68kx.png)
 
-We just keep straying away from our main product idea since then, But meh.. it's just too much.
+We just keep straying away from our main product idea since then, But meh.. Screw it!
 
 
 ### The problem started!
