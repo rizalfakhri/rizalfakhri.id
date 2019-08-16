@@ -329,6 +329,6 @@ blockquote:before {
 
 ul>li {
     font-family: 'IBM Plex Mono';
-    font-size: 20px;
+    font-size: 15px;
     color: var(--white);
 }
