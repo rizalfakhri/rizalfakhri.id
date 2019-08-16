@@ -8,7 +8,7 @@ Hey! First of all, Please don't expect any advance stuff regarding Kafka here. I
 
 I'll documented it here. As far as i know about Kafka. Everyday! <span style="font-size: 10px;">Hopefully..</span>
 
-<img src="http://kafka.apache.org/images/kafka_diagram.png" style="background: #fff; padding: 20px;text-align: center;max-width: 500px;">
+<img src="http://kafka.apache.org/images/kafka_diagram.png" style="background: #fff; padding: 20px;text-align: center;">
 
 ### History
 
@@ -52,7 +52,7 @@ Kafka has 4 core APIs, but it basically only use 2 APIs to get to work with Kafk
 3. The [Streams API](http://kafka.apache.org/documentation/streams) allows an application to act as a stream processor, consuming an input stream from one or more topics and producing an output stream to one or more output topics, effectively transforming the input streams to output streams.
 4. The [Connector API](http://kafka.apache.org/documentation.html#connect) allows building and running reusable producers or consumers that connect Kafka topics to existing applications or data systems. For example, a connector to a relational database might capture every change to a table.
 
-<img src="http://kafka.apache.org/23/images/kafka-apis.png" style="background: #fff; padding: 20px;text-align: center;max-width: 500px;">
+<img src="http://kafka.apache.org/23/images/kafka-apis.png" style="background: #fff; padding: 20px;text-align: center;">
 
 
 That's it!. I think that is what I need to know about Kafka so far. See you on the next part!
