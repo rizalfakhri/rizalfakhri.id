@@ -17,7 +17,8 @@ module.exports = {
             fonts: [
               `Press Start 2P`,
               `IBM Plex Mono`,
-              `Share Tech Mono`
+              `Share Tech Mono`,
+              `Fira Code`
             ],
             display: 'swap'
         }

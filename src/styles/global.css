@@ -130,7 +130,7 @@ code[class*='language-'],
 pre[class*='language-'] {
     color: white;
     background: none;
-    font-family: Consolas, Menlo, Monaco, source-code-pro, Courier New, monospace;
+    font-family: Fira Code, Consolas, Menlo, Monaco, source-code-pro, Courier New, monospace;
     font-feature-settings: normal;
     text-align: left;
     white-space: pre;
@@ -147,8 +147,7 @@ pre[class*='language-'] {
     -ms-hyphens: none;
     hyphens: none;
     box-shadow: none;
-    font-weight: bold;
-    font-size: 15px;
+    font-size: 12px;
 }
 
 
@@ -267,11 +266,12 @@ pre[data-line] {
     position: relative;
 }
 
-@media only screen and (max-width: 930px) {
+@media only screen and (max-width: 600px) {
     .gatsby-highlight {
         border-radius: 0px !important;
         margin-left: -2rem !important;
         margin-right: -2rem !important;
+        border-radius: 0px;
     }
 }
 
@@ -292,8 +292,8 @@ pre[data-line] {
     border-radius: 10px;
     background: #011627;
     -webkit-overflow-scrolling: touch;
-    overflow: hidden;
-    border-radius: 0px;
+    overflow: auto;
+    border-radius: 10px;
 }
 
 @media (max-width: 672px) {
@@ -311,13 +311,12 @@ pre[data-line] {
 /* TYPOGRAPHY THINGS*/
 
 code:not(pre) {
-    font-family: "Share Tech Mono";
+    font-family: "Fira Code", "Share Tech Mono";
     background-color: var(--pink);
     border-radius: 2.5px;
     padding: 2px;
     color: #fff;
     box-shadow: 3px 3px #999999;
-    font-weight: bold;
     padding: 5px 5px 3px 5px;
     font-size: 15px;
 }
