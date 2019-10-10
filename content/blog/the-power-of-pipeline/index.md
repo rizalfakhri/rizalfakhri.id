@@ -1,6 +1,6 @@
 ---
 title: "The Power of Pipeline"
-date: "2019-10-06 16:26"
+date: "2019-10-10 23:48"
 description: "The secret of Illuminate(i)."
 ---
 
