@@ -19,9 +19,8 @@ class Layout extends React.Component {
         <h6
           className="blog-name"
           style={{
-            ...scale(1.5),
-            marginBottom: rhythm(1.5),
-            marginTop: 0,
+            marginBottom: rhythm(2),
+            marginTop: 2,
             fontFamily: 'Press Start 2P',
             fontSize: '30px',
           }}
@@ -44,7 +43,7 @@ class Layout extends React.Component {
           className="blog-name"
           style={{
             fontFamily: `'Press Start 2P', Montserrat, sans-serif`,
-            marginTop: 0,
+            marginTop: 2,
             marginBottom: rhythm(2),
             color: '--textTitle',
             fontSize: '30px'
