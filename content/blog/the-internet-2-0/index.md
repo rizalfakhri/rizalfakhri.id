@@ -156,3 +156,5 @@ Hell yeah! Of course we will!  For 8K resolution Funny Cat Videos, Whatever it t
 - [https://thinkcomputers.org/the-history-of-the-hard-drive/](https://thinkcomputers.org/the-history-of-the-hard-drive/)
 - [https://www.submarinecablemap.com](https://www.submarinecablemap.com)
 - [https://www.bbc.com/news/technology-41817471](https://www.bbc.com/news/technology-41817471)
+
+If you found typo, mistakes, or misinformation, please contact me or create a pull request [Here](https://github.com/rizalfakhri/rizalfakhri.id/edit/master/content/blog/the-internet-2-0/index.md).
