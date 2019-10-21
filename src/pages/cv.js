@@ -20,7 +20,7 @@ class CV extends Component {
 
     this.interval = setInterval(() => {
       this.setState({
-          been: moment.duration(moment().diff(moment('2015'))).as('years')
+          been: moment.duration(moment().diff(moment('2015'))).as('years').toString().substring(0, 16)
       })
 
     }, 100)
@@ -184,8 +184,8 @@ class CV extends Component {
             <h4>PT. Procyon Logikreasi Indonesia</h4>
 
               <p>Fullstack Developer @ Jakarta, Indonesia 🇮🇩</p>
-             
-            <p>Working on multiple projects, that have similar functionality is challenging, 
+
+            <p>Working on multiple projects, that have similar functionality is challenging,
               especially when you need to avoid repeatedly writing same code, so on this company, I built reusable components so it can be used on cross-project. such as
             </p>
             <ul>
@@ -281,7 +281,7 @@ class CV extends Component {
           <li style={{fontSize: `20px`}}>English (Still Learning)</li>
           <p>Well I believe I'm good at reading and sometimes listening, But I need to improve my Pronouncing. <span style={{fontSize: `8px`}}>and my grammar..</span></p>
         </ul>
-      
+
       </div>
 
       <hr />
