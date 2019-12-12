@@ -62,11 +62,11 @@ Here come the interesting part.
 
 We all agree right, in this universe there's no things that faster than light, even sound.
 
-And that's one of the reason why fibre optic is used as a backbone of the entire Internet. Unexpected isnt't it, Our images, voices, texts, are actually in a form of light in the world of submarine fibre optic cable.
+And that's one of the reason why fibre optic is used as a backbone of the entire Internet. Our images, voices, texts, are actually in a form of light in the world of submarine fibre optic cable.
 
 So, what if, in the future, we somehow discover new thing, new element that faster than light? Let's say 2 times the speed of light. But its behaviour is very different than light, maybe it's a gas? that need a vacuum to travel?
 
-Or, maybe it's entirely new type of particles? unlike Gas, Liquid or solid particle? But its structure is very reliable to carry our data, maybe we can save up to 16 bits per pulses? 
+Or, maybe it's entirely new type of particles? unlike Gas, Liquid or solid particle? But its structure is very reliable to carry our data, maybe we can carry up to 16 bits per pulses? 
 
 So it means, if our fibre optic network is on 1Gbits/s, multiply by 16 bits per pulses it will result into 16Gbit/s, since we can send up to 16bits per pulses?, what if the network is on 1Pbits/s? How amazing the speed will be!
 
