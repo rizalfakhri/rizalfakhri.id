@@ -1,7 +1,7 @@
 ---
 title: "I Hate Humans."
 date: "2020-12-09 22:22"
-description: "The most disgusting multi-cellulars organism in the Universe™"
+description: "The worst multi-cellulars organism in the Universe™"
 ---
 
 03:58 AM in the morning, lights illuminating through pixels on my phone screen displaying a picture of 4 years old girl smiling, so pure. That I will do everything to protect this girl from this broken world.
