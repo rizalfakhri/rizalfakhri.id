@@ -8,7 +8,7 @@ Some says it's the existential crisis, some says it's just a phase to officially
 
 Staring outside the window for hours. Thinking about what are you. Why did you exists.
 
-Denying that it wouldn't occur to you as strong-minded human being.
+Denying that it would occur to you as strong-minded human being.
 
 Dusk set, the orange sun rays hit your face through the window, forming dark siluet of your body.
 
@@ -16,7 +16,7 @@ You always feel strong, feel different from others, you always feel you have som
 
 _What happen inside my heart, why did I feel this, I never felt it before._
 
-_I hate feeling this thing, I hate having emotions at all._
+_I hate this feeling, I hate my emotions!_
 
 _If only I'm not exists.._
 
@@ -40,7 +40,7 @@ You miss families, but again.. you hate your own emotion.
 
 You hate yourself, you hate your own emotion, making you feel weak.
 
-Looking for somebody to blame. But there's nobody to blame, owing the fact that you don't know what happen to you.
+Looking for somebody to blame. But there's nobody to blame, with the fact that you don't even know what happen to you.
 
 Everything seems perfect, then everything fall apart the next morning. You don't know why.
 
@@ -152,7 +152,7 @@ The photo of your sweet 17 birthday,
 
 The photo of your first day on your university dorm, with your new roomate,
 
-The photo of you with your friends working on your thesis till late night,
+The photo of you with your friends working on your assignment till late night,
 
 The photo of you drinking your first beer,
 
