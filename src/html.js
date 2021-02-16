@@ -25,9 +25,7 @@ export default function HTML(props) {
         />
         {props.postBodyComponents}
 
-        <!-- Fathom - beautiful, simple website analytics -->
         <script src="https://cdn.usefathom.com/script.js" data-site="ZCDAODYQ" defer></script>
-        <!-- / Fathom -->
       </body>
     </html>
   )
