@@ -31,7 +31,11 @@ module.exports = {
               `Press Start 2P`,
               `IBM Plex Mono`,
               `Share Tech Mono`,
-              `Fira Code`
+              `Fira Code`,
+              `JetBrains Mono`,
+              `Rubik`,
+              `Rubik Moonrocks`,
+              `Titan One`,
             ],
             display: 'swap'
         }

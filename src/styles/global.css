@@ -1,16 +1,18 @@
 /*
- * Copyright (c) 2015 overreacted.io 
+ * Copyright (c) 2015 overreacted.io
  * Forked from https://github.com/aaronshaf/react-toggle/
 **/
 
 body {
     -webkit-font-smoothing: antialiased;
     --pink: rgb(255, 167, 196);
-    --bg: #282c35;
+    --blue: #217CE5;
+    --bg: #191A1E;
+    --linkColor: #e7c6ff;
     --header: #ffffff;
     --textNormal: rgba(255, 255, 255, 0.88);
     --textTitle: #ffffff;
-    --textLink: var(--pink);
+    --textLink: var(--linkColor);
     --hr: hsla(0, 0%, 100%, 0.2);
     --inlineCode-bg: hsl(222, 14%, 25%);
     --inlineCode-text: #e6e6e6;
@@ -41,7 +43,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Press Start 2P'
+    font-family: 'Titan One';
 }
 
 .bio-description {
@@ -105,7 +107,7 @@ body:lang(ar) blockquote {
 
 body:lang(fa) article,
 body:lang(fa) header>h1 {
-    font-family: 'Press Start 2P';
+    font-family: 'Titan One';
 }
 
 
@@ -113,7 +115,7 @@ body:lang(fa) header>h1 {
 
 body:lang(ar) article,
 body:lang(ar) header>h1 {
-    font-family: 'Press Start 2P', sans-serif;
+    font-family: 'Titan One';
 }
 
 body:lang(ko) header,

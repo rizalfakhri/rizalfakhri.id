@@ -8,7 +8,7 @@
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
-import profilePic from '../../content/assets/profile-pic.jpeg'
+import profilePic from '../../content/assets/profile-pic-new.jpeg'
 
 import { rhythm } from "../utils/typography"
 
@@ -65,7 +65,7 @@ const Bio = () => {
 
         <br />
 
-        I wrote lots of code & opinions here, but <b>pssst...</b> sometimes weird things.
+        Everything written here is my opinion, this is my safe space, you don't get a say, period.
 
       </p>
     </div>

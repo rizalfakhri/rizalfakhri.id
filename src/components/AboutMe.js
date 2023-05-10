@@ -65,12 +65,12 @@ const AboutMe = () => {
 
         <br />
 
-        I wrote lots of code & opinions here, but <b>pssst...</b> sometimes weird things.
+        views are my own, everything written in this blog is my opinion, this is my safe space, you don't get a say.
 
       </p>
     </div>
   )
 }
 
-export default AboutMe 
+export default AboutMe
 

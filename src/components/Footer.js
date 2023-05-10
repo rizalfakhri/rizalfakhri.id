@@ -38,10 +38,10 @@ const Footer = () => {
 
             >
 
-            <a target="_blank" href={`https://github.com/${social.github}`}>GitHub</a> • <a target="_blank" href={`https://twitter.com/${social.twitter}`}>Twitter</a> •  <a target="_blank" href={`https://instagram.com/${social.instagram}`}>Instagram</a> •&nbsp; 
+            <a target="_blank" href={`https://github.com/${social.github}`}>GitHub</a> • <a target="_blank" href={`https://twitter.com/${social.twitter}`}>Twitter</a> •  <a target="_blank" href={`https://instagram.com/${social.instagram}`}>Instagram</a> •&nbsp;
 
-            <Link to="cv" rel="prev">
-                Curriculum Vitae
+            <Link to="about" rel="prev">
+                About
             </Link>
 
                 {` `}
