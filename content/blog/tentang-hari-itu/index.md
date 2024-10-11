@@ -1,6 +1,6 @@
 ---
 title: "Tentang hari itu..."
-date: "2024-10-10 00:00"
+date: "2024-10-11 00:00"
 description: "Mata-mata yang berbinar-binar itu sangat jarang sekali terlihat."
 ---
 
