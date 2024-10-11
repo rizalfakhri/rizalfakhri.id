@@ -84,7 +84,7 @@ function SEO({
         },
         {
           name: `theme-color`,
-          content: `#282c53`
+          content: `#191A1E`
         }
       ].concat(meta)
     }
