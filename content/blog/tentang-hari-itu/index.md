@@ -51,13 +51,13 @@ Dengan mata polos yang berbinar-binar, anak kecil itu dengan penuh kebahagiaan d
 
 ---
 
-_Tahukah kamu nak, menanam bunga melati di tanah yang sudah gersang hanya akan membunuh tanaman bunga tersebut? bahkan ketika kau sudah menyiraminya setiap hari. Air itu mungkin akan lebih berharga jika kau berikan kepada orang-orang yang tengah kehausan._
+_Tahukah engkau nak, menanam bunga melati di tanah yang sudah gersang hanya akan membunuh tanaman bunga tersebut? bahkan ketika kau sudah menyiraminya setiap hari. Air itu mungkin akan lebih berharga jika kau berikan kepada orang-orang yang tengah kehausan._
 
-_Tahukah kamu nak, etude dari gemuruh sungai di bawah sana, kicauan burung-burung berterbangan, dan detak jantung seluruh makhluk hidup itu adalah simfoni alam semesta yang abadi?_
+_Tahukah engkau nak, etude dari gemuruh sungai di bawah sana, kicauan burung-burung berterbangan, dan detak jantung seluruh makhluk hidup itu adalah simfoni alam semesta yang abadi?_
 
-_Tahukah kamu nak, bahwa segala hal di dunia ini, pada akhirnya nanti akan kehilangan keelokanya? yang tersisa hanyalah kenangan-kenangan di ujung jari-jari yang keriput dan mata yang sayu itu._
+_Tahukah engkau nak, bahwa segala hal di dunia ini, pada akhirnya nanti akan kehilangan keelokanya? yang tersisa hanyalah kenangan-kenangan di ujung jari-jari yang keriput dan mata yang sayu itu._
 
-_Tahukah kamu nak, cerita sandiwara di dunia ini begitu lucu dan di saat yang bersamaan begitu melelahkan?_
+_Tahukah engkau nak, cerita-cerita sandiwara di dunia ini begitu lucu dan di saat yang bersamaan begitu melelahkan?_
 
 ---
 
@@ -65,11 +65,14 @@ _Tahukah kamu nak, cerita sandiwara di dunia ini begitu lucu dan di saat yang be
 >
 > -- _Tuhan & hal-hal yang tak selesai_ oleh Goenawan Mohamad.
 
+Selesai.
 
 ---
 
-_Tulisan fiksi ini merupakan eksplorasi linguistik sastrawi dengan penggunaan media Bahasa Indonesia, setiap tokoh, tempat, cerita, konflik dan lainnya hanya fiksi belaka dan tidak tertuju kepada pribadi tertentu._
+Catatan:
 
-_Tulisan ini mencoba membingkai dirinya dari sudut pandang dan gaya penulisan beberapa tokoh dan penulis besar, seperti Kahlil Gibran, Goenawan Mohamad, Sapardi Djoko Damono, Virginia Woolf, dan James Joyce, ketidak-konsistenan dalam gaya penulisan dan transisi puitis yang tidak halus merupakan murni kekeliruan dari saya pribadi._
+_Esai fiksi ini merupakan eksplorasi linguistik sastrawi dengan penggunaan media Bahasa Indonesia, setiap tokoh, tempat, cerita, konflik dan lainnya hanya fiksi belaka dan tidak tertuju kepada pribadi tertentu._
 
-_Tulisan ini merupakan salah satu bagian dari trial & error saya pribadi sendiri dalam proses membangun kemampuan literary saya dan mencoba menuangkan pikiran-pikiran yang terlintas sesaat untuk dijadikan refleksi di kemudian hari._
+_Esai ini mencoba dibingkai menggunakan sudut pandang dan gaya penulisan beberapa tokoh dan penulis besar, seperti Kahlil Gibran, Goenawan Mohamad, Sapardi Djoko Damono, Virginia Woolf, dan James Joyce, ketidak-konsistenan dalam gaya penulisan dan transisi puitis yang tidak halus merupakan murni kekeliruan dari saya pribadi._
+
+_Esai ini merupakan salah satu dari sekian banyak bagian trial & error saya pribadi sendiri dalam proses mengembangkan kemampuan literary saya dan mencoba menuangkan konklusi dari pikiran-pikiran yang terlintas sesaat._
