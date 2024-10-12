@@ -4,10 +4,6 @@ date: "2024-10-11 00:00"
 description: "Mata-mata yang berbinar-binar itu sangat jarang sekali terlihat."
 ---
 
-_Karya fana ini akan terhapus dengan sendirinya dalam 24 jam._
-
----
-
 Jiwa pejuangnya yang bergelora, dilandasi gagasan-gagasan kebajikan yang hampir paling bijaksana, namun amat keliru, telah secara langsung melukai proyeksi langkah-langkah masa depannya yang amat sangat jauh.
 
 Bahkan, dengan hipotesa multi-juta dimensi, tidak mampu untuk membuat rekaan dari rancangan-rancangannya sedikit saja lebih masuk akal.
